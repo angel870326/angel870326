@@ -2,12 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/angel870326">    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angel870326&show_icons=true&theme=radical&title_color=e9a3ff&text_color=57dbc8&bg_color=021627&locale=en&include_all_commits=true&count_private=true" alt="angel870326" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=angel870326&theme=nightowl&hide_border=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angel870326&show_icons=true&theme=radical&title_color=e9a3ff&text_color=57dbc8&bg_color=021627&locale=en&include_all_commits=true&count_private=true" alt="angel870326" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=angel870326&theme=nightowl&hide_border=false"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=angel870326&show_icons=true&theme=radical&title_color=e9a3ff&text_color=00e3cb&bg_color=021627&locale=en&layout=compact&include_all_commits=true&count_private=true"" alt="angel870326" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=angel870326&show_icons=true&theme=radical&title_color=e9a3ff&text_color=00e3cb&bg_color=021627&locale=en&layout=compact&include_all_commits=true&count_private=true"" alt="angel870326" />
 </div>
 <div align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
