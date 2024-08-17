@@ -2,7 +2,6 @@
 
 <div align="center">
   <a href="https://github.com/angel870326">    
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angel870326&show_icons=true&theme=radical&title_color=e9a3ff&text_color=57dbc8&bg_color=021627&locale=en&include_all_commits=true&count_private=true" alt="angel870326" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=angel870326&theme=nightowl&hide_border=false"/>
 </div>
 
